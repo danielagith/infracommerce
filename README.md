@@ -25,5 +25,3 @@ Sobre a matriz de confusão: O algoritmo utilizando as redes neurais foi o que m
 Porém, embora os modelos tenham apresentado desempenhos muito próximos, para predição de fraude o modelo de floresta aleatória, neste estudo, se apresentou melhor nas métricas em relação aos demais modelos. Foi o que melhor respondeu na precisão pra fraude 73%, Recall 98% superior aos dos outros dois e com o mesmo F1-Score 89%.
 
 Sobre a matriz de confusão: O algoritmo de Florestas Aleatórias foi o que melhor trouxe também respostas para verdadeiros negativos e falsos negativos, o que traz melhor retorno financeiro e menos problemas de relacionamento com o cliente.
-
-
